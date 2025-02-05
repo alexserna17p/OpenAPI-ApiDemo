@@ -34,3 +34,13 @@ C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\obj\Debug\net8.0\refin
 C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\obj\Debug\net8.0\MiOpenApiDemo.pdb
 C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\obj\Debug\net8.0\MiOpenApiDemo.genruntimeconfig.cache
 C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\obj\Debug\net8.0\ref\MiOpenApiDemo.dll
+C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\obj\Debug\net8.0\MiOpenApiDemo.sourcelink.json
+C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\despg20\source\repos\MiOpenApiDemo\MiOpenApiDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
