@@ -1,0 +1,6 @@
+@MiOpenApiDemo_HostAddress = http://localhost:5027
+
+GET {{MiOpenApiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
