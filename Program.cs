@@ -75,12 +75,12 @@ Log.Logger = new LoggerConfiguration()
 
 builder.Services.AddLogging(logging =>
 {
-    logging.AddSerilog();  // Agregar Serilog a la configuración
+    logging.AddSerilog();
 });
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
