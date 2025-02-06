@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiOpenApiDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d92c950820d858872a8cb10a2eb8ed9c819ad25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dd1f602c4fac87769a705aac8395b728dfec2ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiOpenApiDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiOpenApiDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
